@@ -1,12 +1,7 @@
-<<<<<<< HEAD
-# react-procces-nov24
-=======
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> 042247e (Actualizando cambios en el proyecto)
+React + Vite: CounterApp
+Clonar o instalar
+Ejecutar el comando:
+npm install
+Correr la aplicación
+npm run dev
