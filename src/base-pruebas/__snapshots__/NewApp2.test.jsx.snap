@@ -1,0 +1,19 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`pruebas en NewApp.jsx Debe hacer Match con el Sanpshot 1`] = `
+<div>
+  <h1
+    data-testid="test-tittle"
+  >
+     
+    Hola, soy Emma
+     
+  </h1>
+  <p>
+    Lo lograras, ya lo veràs!!
+  </p>
+  <p>
+    Emma
+  </p>
+</div>
+`;
